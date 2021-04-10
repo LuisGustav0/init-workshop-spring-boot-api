@@ -9,5 +9,4 @@ public class InitWorkshopSpringBootApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InitWorkshopSpringBootApiApplication.class, args);
 	}
-
 }
